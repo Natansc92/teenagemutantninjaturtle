@@ -57,8 +57,8 @@ body{
     left: 0;
     width: 0;
     height: 0;
-    border-left: 150px solid transparent;
-    border-right: 150px solid transparent;
+    border-left: 150px solid chartreuse;
+    border-right: 150px solid chartreuse;
     border-top: 28.8675px solid rgb(0, 0, 0);
     
 
@@ -77,8 +77,8 @@ body{
     left: 0;
     width: 0;
     height: 0;
-    border-left: 150px solid transparent;
-    border-right: 150px solid transparent;
+    border-left: 150px solid chartreuse;
+    border-right: 150px solid chartreuse;
     border-top: 28.8675px solid chartreuse;    
 
   }
