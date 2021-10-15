@@ -6,7 +6,7 @@
 }
 
 body{
-    background-image: linear-gradient(-45deg, red, purple, blue, orangered, black);
+    background-image: linear-gradient(-20deg, red, purple, blue, orangered);
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
